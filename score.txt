@@ -1,0 +1,10 @@
+Level 1	10	S
+Level 2	25	A
+Level 3	71	S
+Level 4	86	A
+Level 5	114	A
+Level 6	68	D
+Level 7	49	A
+Level 8	46	S
+Level 9	97	A
+Total Score	1130	
