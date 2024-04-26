@@ -1,6 +1,5 @@
-# warrior-js-solutions
+# *_warrior-js-solutions_*
 
+### :mage: my solutions for [WarriorJS game](https://warriorjs.com/)	
 
-My solutions for WarriorJS game(https://warriorjs.com/)  levels
-
-### First tower (9 levels done)
+#### :boom: both towers done in epic mode, needs heavy refactoring and contains spoilers :boom: 
